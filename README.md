@@ -12,10 +12,7 @@ SQL 8.0
 ## UML DIAGRAMS:
 
 ## Use Case:
-'''
-
-              Use-case diagrams describe the high-level functions and scope of a system. These diagrams also identify the interactions between                the system and its actors. The use cases and actors in use-case diagrams describe what the system does and how the actors use                   it, but not how the system operates internally.
-'''
+Use-case diagrams describe the high-level functions and scope of a system. These diagrams also identify the interactions between the system and its actors. The use cases and actors in use-case diagrams describe what the system does and how the actors use it, but not how the system operates internally.
 ![Screenshot 2024-10-18 092938](https://github.com/user-attachments/assets/806b49eb-9840-4396-9db1-76c35eb656d6)
 ## Activity:
 ![Screenshot 2024-10-18 093016](https://github.com/user-attachments/assets/b6eebf56-90f9-497f-9d34-6e1a34c196bc)
