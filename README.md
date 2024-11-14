@@ -30,8 +30,8 @@ A sequence diagram in Unified Modeling Language (UML) is a kind of interaction d
 ![Screenshot 2024-10-18 111134](https://github.com/user-attachments/assets/eccc971b-7208-47cf-9ae6-295e08b811a3)
 ## Package Diagram:
 A package diagram is represented as a folder shown as a large rectangle with a top attached to its upper left corner. A package may contain both sub ordinate package and ordinary model elements. All uml models and diagrams are organized into package. A package diagram in unified modeling language that depicts the dependencies between the packages that make up a model. A Package Diagram (PD) shows a grouping of elements in the OO model, and is a Cradle extension to UML PDs can be used to show groups of classes in Class Diagrams (CDs), groups of components or processes in Component Diagrams (CPDs), or groups of processors in Deployment Diagrams (DPDs).
+![image](https://github.com/user-attachments/assets/33844e79-2815-4202-817f-83eb28b0dd74)
 
-![Screenshot 2024-10-18 093002](https://github.com/user-attachments/assets/ba0b3e97-c36c-4ba9-b1c6-284fac5e669e)
 ## Collobration Diagram:
 A collaboration diagram is similar to sequence diagram but the message in number format. In a collaboration diagram sequence diagram is indicated by the numbering the message. A collaboration diagram, also called a communication diagram or interaction diagram, A sophisticated modeling tool can easily convert a collaboration diagram into a sequence diagram and the vice versa. A collaboration diagram resembles a flowchart that portrays the roles, functionality and behavior of individual objects as well as the overall operation of the system in real time.
 
