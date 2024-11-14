@@ -37,3 +37,5 @@ A collaboration diagram is similar to sequence diagram but the message in number
 
 ![Screenshot 2024-10-18 093759](https://github.com/user-attachments/assets/de986bae-26f1-4925-9537-00d862d7f2c7)
 
+## Result:
+UML diagram for ATM management system is created using StarUML;
